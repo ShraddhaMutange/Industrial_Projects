@@ -24,8 +24,8 @@ javac src/Packer.java
 javac src/Unpacker.java  
 
 ### Run
-java program606  
-java program614  
+java Packer  
+java Unpacker  
 
 ## 👩‍💻 Author
 Shraddha Dhananjay Mutange
